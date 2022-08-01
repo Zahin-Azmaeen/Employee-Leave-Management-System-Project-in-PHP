@@ -23,3 +23,4 @@ The Staff can log in with a valid email and password.
 Update his/her profile
 Applied for leave
 View the leave history
+ 
